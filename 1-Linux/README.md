@@ -20,4 +20,4 @@
 
 
 
-## **Comandos terminal do linux**:
+## **Linhas de Comandos no terminal linux**:
